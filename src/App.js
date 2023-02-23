@@ -13,7 +13,7 @@ const colors = {
 
 }
 
-console.log("changeswored")
+
 
  function App() {
 const stars = Array(5).fill(0)
