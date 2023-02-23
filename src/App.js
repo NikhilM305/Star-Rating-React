@@ -9,7 +9,7 @@ import {FaHourglassStart} from "react-icons/fa"
 
 const colors = {
   orange : "#FD4621",
-  grey : "gray"
+  grey : "#9D918E"
 
 }
 
